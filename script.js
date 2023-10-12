@@ -31,4 +31,4 @@ alert    ("SEGUNDA PRE ENTREGA");
 alert    ("Vamos a Registrarnos");
 register ();
 alert ("Usuario Registrado: " + this.username );
-alert    ("FIN")
+
